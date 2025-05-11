@@ -36,7 +36,7 @@ This project enables an ESP32 (or compatible board) to periodically fetch schedu
   const char* password = "PASSWORD-AP";
   ```
 
-## 🐍 Python API (app.py)
+## 🐍 Python API (`app.py`)
 
 - Simple Flask server returning time as JSON:
 
@@ -53,16 +53,21 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=44555)
 ```
 
-- Install Flask (Windows):
+- Install Flask:
+- (`Windows`)
 
 ```sh
 py -m pip install flask
 ```
-### OR
-```sh
-python -m pip install flask
-```
-### OR
+
+- (`Linux`)
+
 ```sh
 pip install flask
+```
+
+## ⚙️ Setting up a sample json file (`Node.js`)
+
+```sh
+npx json-server --watch time.json
 ```
