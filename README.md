@@ -1,3 +1,5 @@
+# 🖼️ ESP32 S3 Image
+![IMAGE_DESCRIPTION](esp32s3.jpg_960x960q75.avif)
 # ⏰ Time Sync Alert with NeoPixel (ESP32 + Python API)
 
 This project enables an ESP32 (or compatible board) to periodically fetch scheduled time from a local Python API, compare it with the current local time, and notify via NeoPixel LED if the event is approaching.
