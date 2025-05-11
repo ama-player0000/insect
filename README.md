@@ -78,14 +78,14 @@ pip install flask
 npx json-server --watch time.json
 ```
 # 🧩 Check Status LED ESP32 S3
-- Normal mode of the device:
+- `Normal` mode of the device:
 ![IMAGE_DESCRIPTION](./images/normal.jpg)
 ---
-- The device is not connected to the network:
+- The device is `not connected` to the network:
 ![IMAGE_DESCRIPTION](./images/disconnect.jpg)
 ---
-- Device data receiving mode from API:
+- Device data `receiving` mode from API:
 ![IMAGE_DESCRIPTION](./images/get_data.jpg)
 ---
-- Promised time mode:
+- `Promised time` mode:
 ![IMAGE_DESCRIPTION](./images/promised_time.jpg)
