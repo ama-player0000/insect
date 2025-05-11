@@ -7,7 +7,10 @@ This project enables an ESP32 (or compatible board) to periodically fetch schedu
 ---
 
 ## 📦 Project Structure
-
+- `language Python`
+- `language C++ (Arduino)`
+- `Sample file Json `
+- `ESP32 S3 (Board)`
 ---
 
 ## 🔌 Hardware Requirements
