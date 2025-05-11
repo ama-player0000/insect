@@ -28,7 +28,7 @@ This project enables an ESP32 (or compatible board) to periodically fetch schedu
 
 ---
 
-## 🧠 Arduino Sketch (`time_alert.ino`)
+## 🧠 Arduino Sketch (`main.ino`)
 
 - Configure Wi-Fi credentials:
   ```cpp
