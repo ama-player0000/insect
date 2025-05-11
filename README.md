@@ -77,7 +77,7 @@ pip install flask
 ```sh
 npx json-server --watch time.json
 ```
-# 🧩 Check Status
+# 🧩 Check Status LED ESP32 S3
 - Normal mode of the device:
 ![IMAGE_DESCRIPTION](./images/normal.jpg)
 ---
